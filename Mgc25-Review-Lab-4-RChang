@@ -1,0 +1,5 @@
+Looking at this solution I see the library itself in Visual Studio is set up correctly. When looking at the code the 
+class is named and set up with an appropriate constructor instead of just properties (calling a table instead of 
+setting up fields/properties for a table). I like the methods you included in this class and the comments for each, 
+especially the SearchState method which could save a lot of space in a form’s .cs file. The only thing in this solution 
+I would have liked to see is a comment section for the name, class, and assignment to help clarify whose code it is (just in case).
