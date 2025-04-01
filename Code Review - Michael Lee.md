@@ -1,0 +1,1 @@
+Looks good and worked during testing. My main suggestions would be to rename the .Class1.cs file to StateData.cs. Additionally, you may have been able to fit some of the sorting functionality in this class library. Overall, great job!
