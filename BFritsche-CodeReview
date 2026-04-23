@@ -1,0 +1,17 @@
+Is the code generally readable and
+well-documented?
+Yes, comments were used to explain the functions
+of each organized block of code.
+
+Did you find any software defects?
+I found a logic error stating that selectedStateData was not null, as well
+as one which was a dereference of a possibly null reference, but no major errors.
+
+What was one way that their solution
+differed from yours?
+They had functions to search for states either by keyword or by name, and mine was just a basic
+class library.
+
+Do you have any other constructive
+comments for the author?
+I would try to correct the logic errors if possible, but aside from that, good job with this!
